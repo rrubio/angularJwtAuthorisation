@@ -8,7 +8,7 @@ Hoping this simple kickstart template will benefit others in adding user registr
 
 # NodeJs backend + mongodb
 
-[You can find the back end here](https://github.com/rrubio/NodeJsJWT), make sure you have nodejs, express generator and mongodb installed.
+[You can find the backend here](https://github.com/rrubio/NodeJsJWT), make sure you have nodejs, express generator and mongodb installed.
 
 # Token Storage
 
