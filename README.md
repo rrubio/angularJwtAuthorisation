@@ -6,6 +6,10 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 
 Hoping this simple kickstart template will benefit others in adding user registration and validation with JWT Authorisation implemented with NodeJs on the backend, you can find it [here](https://github.com/rrubio/NodeJsJWT). Project inspired by Jason Watmore's tutorial with Mockbackend.
 
+# NodeJs backend + mongodb
+
+[You can find the back end here](https://github.com/rrubio/NodeJsJWT), make sure you have nodejs, express generator and mongodb installed.
+
 # Token Storage
 
 Currently stores token under localStorage - refreshment of token coming soon.
